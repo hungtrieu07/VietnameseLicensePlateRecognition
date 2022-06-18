@@ -8,3 +8,5 @@
 + Mô hình Wpod-Net được huấn luyện sẵn: 
 https://drive.google.com/file/d/1JzA8kMGVQrxlZtoWDu6Qo5HO8DqdmFB-/view?usp=sharing
 https://drive.google.com/file/d/1OVFkdubtEE1TFl12K2_nhKK44JDi6I8z/view?usp=sharing
+- Dữ liệu dự đoán:
+Bộ ảnh biển số xe máy của công ty Green Parking: https://github.com/thigiacmaytinh/DataThiGiacMayTinh/blob/main/GreenParking.zip
